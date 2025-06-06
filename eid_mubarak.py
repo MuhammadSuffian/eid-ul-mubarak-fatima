@@ -429,7 +429,7 @@ def is_eid():
     # Use a specific timezone (e.g., Asia/Karachii for Pakistan Standard Time)
     timezone = pytz.timezone('Asia/Karachi')
     today = datetime.now(timezone).date()
-    return today.month == 6 and today.day == 7
+    return today.month == 6 and today.day == 8
 # Calculate time until Eid
 def time_until_eid():
     timezone = pytz.timezone('Asia/Karachi')
