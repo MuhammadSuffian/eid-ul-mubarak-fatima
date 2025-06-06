@@ -590,7 +590,7 @@ def main():
     st.markdown(f"""
         <div class="message-card">
             <h2 style="font-family: 'Montserrat', sans-serif; font-weight: 600; margin-bottom: 20px; color: #333;">
-                Dear Aamna,
+                Dear Fatima,
             </h2>
             <p style="font-family: 'Playfair Display', serif; font-size: 1.3rem; line-height: 1.8; color: #444; margin-bottom: 20px;">
                 {eid_message}
