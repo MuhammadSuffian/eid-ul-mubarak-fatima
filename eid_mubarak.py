@@ -461,7 +461,7 @@ def show_premium_countdown():
         st.markdown("""
         <div class="premium-container reflection">
             <h2 style="text-align: center; font-family: 'Playfair Display', serif; margin-bottom: 30px;color: black;">
-                Eid ul Adha Celebration
+                Eid ul Adha Celebrations
             </h2>
         """, unsafe_allow_html=True)
         
