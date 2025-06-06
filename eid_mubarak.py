@@ -548,9 +548,9 @@ def main():
         access_granted = show_premium_countdown()
         
         # Add a backdoor for testing (remove in production)
-        if st.sidebar.checkbox("Preview Eid Content", value=False):
-            access_granted = True
-            st.sidebar.warning("Preview mode enabled")
+        # if st.sidebar.checkbox("Preview Eid Content", value=False):
+        #     access_granted = True
+        #     st.sidebar.warning("Preview mode enabled")
         
         if not access_granted:
             # Add footer
